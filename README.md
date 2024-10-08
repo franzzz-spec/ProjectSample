@@ -1,4 +1,4 @@
-# ProjectSample
+#Madlib Game(sample)
 
 #Madlibs Game
 #word game where we create a story by filling the gaps with random words
