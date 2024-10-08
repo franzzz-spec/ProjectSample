@@ -1,6 +1,4 @@
 #Madlib Game(sample)
-
-#Madlibs Game
 #word game where we create a story by filling the gaps with random words
 
 print("Hello there welcome to my custom Madlib Game :)")
